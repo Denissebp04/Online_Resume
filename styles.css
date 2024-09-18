@@ -1,0 +1,68 @@
+.container{
+    border: 2px solid gray; 
+}
+
+p{
+    color: whitesmoke;
+}
+
+h5{
+    color: whitesmoke;
+}
+
+h4{
+    color: whitesmoke;
+}
+
+h3{
+    color: whitesmoke;
+}
+
+h2{
+    color: rgb(24, 114, 232);
+
+}
+
+h1{
+    color: whitesmoke;
+}
+
+li{
+    color: whitesmoke;
+}
+
+
+.top-sect{
+    display: flex;
+}
+
+img{
+    height: 218px;
+    width: 218px;
+    box-shadow: 20px;
+    
+}
+   
+#profile{
+    flex-grow: 6;
+}
+
+#info{
+    flex-grow: 3;
+}
+
+.bottom{
+    display: flex;
+}
+
+#bottom-a{
+    flex-grow: 5.7;
+}
+
+#bottom-b{
+    flex-grow: 22;
+}
+
+body{
+    background-color: rgb(52, 51, 51);
+}
